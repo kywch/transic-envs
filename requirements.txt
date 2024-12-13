@@ -1,4 +1,0 @@
-numba
-casadi
-urdf-parser-py
-roboticstoolbox-python
